@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       backgroundImage: {
         "main-curve": "url('/main-curve.svg')",
+        "sub-curve": "url('/sub-curve.svg')",
       },
     },
   },
